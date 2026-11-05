@@ -1,0 +1,15 @@
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\bin\Debug\net10.0\Factura.exe
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\bin\Debug\net10.0\Factura.deps.json
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\bin\Debug\net10.0\Factura.runtimeconfig.json
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\bin\Debug\net10.0\Factura.dll
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\bin\Debug\net10.0\Factura.pdb
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.AssemblyInfoInputs.cache
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.AssemblyInfo.cs
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.sourcelink.json
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.dll
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\refint\Factura.dll
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.pdb
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\Factura.genruntimeconfig.cache
+C:\Users\Starling Gonzales\Desktop\FUNDAMENTOS\Evaluacion03\Factura\obj\Debug\net10.0\ref\Factura.dll
